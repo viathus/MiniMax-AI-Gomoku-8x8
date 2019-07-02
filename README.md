@@ -7,4 +7,8 @@ A Java class (**GomokuReferee.class**) is provided for developing and testing yo
 
 ### **Game playing**
 
+![Image not found](https://github.com/viathus/MiniMax-AI-Gomoku-8x8/blob/master/images/game.png)
 
+### **Game won by AI**
+
+![Image not found](https://github.com/viathus/MiniMax-AI-Gomoku-8x8/blob/master/images/gamewin.png)
