@@ -1,3 +1,10 @@
 # MiniMax-AI-Gomoku-8x8
 
-The class files is simply the playing board to allow us to test our AI's on. To run this application you have to run the gomokuboard class, this will allow you to pick **player160495078** through the GUI in order to test out the AI
+A Java class (**GomokuReferee.class**) is provided for developing and testing your player. This includes a graphical interface which allows you to play against your programme or watch games between computer players. It automatically ﬁnds any player classes which are in the same directory as you call java GomokuReferee from). 
+
+**Player160495078.class** is the AI I created in order to beat other AI's or human players at 8x8 gomoku. 
+
+
+### **Game playing**
+
+
