@@ -1,4 +1,4 @@
-Univeristy Project!
+# A University Project!
 
 # MiniMax-AI-Gomoku-8x8
 
